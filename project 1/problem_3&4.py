@@ -33,6 +33,7 @@ def solve(A, b):
   numCols = A.shape[1]
 
   print("Number of Rows of A = " + str(numRows))
+
   print("Number of Columns of A = " + str(numCols))
 
   vF = np.ones([2*numCols, 1])
