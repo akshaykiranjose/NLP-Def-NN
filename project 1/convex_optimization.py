@@ -1,1 +1,0 @@
-here begins convex optimization ;|
