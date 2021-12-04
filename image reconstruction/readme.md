@@ -1,5 +1,6 @@
 Welcome, Here is the code that does image reconstruction via compressed sensing.
-Thus far, image reconstruction via  a universal basis worked this way.
+
+Thus far, image reconstruction via  a universal basis worked the following way.
 
 You take a high resolution image and fourier transform it; 
 
