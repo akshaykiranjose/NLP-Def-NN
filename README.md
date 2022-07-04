@@ -1,3 +1,12 @@
-# nlp tokenization and stemming sans libraries
+# Neural Machine Translation
+## Deutsch to English
 
-### CS 324: Elements Of Programming Coursework
+### Dataset: [ANKI](http://www.manythings.org/anki/)
+
+LSTM Encoder-Decoder Schematic:
+
+
+Input Examples:
+
+
+Output Examples:
